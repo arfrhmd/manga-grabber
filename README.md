@@ -1,4 +1,8 @@
 # Manga Grabber
-based on pecintakomik.com
+Tool ini dibuat untuk para wibu-wibu Indonesia yang menyukai manga.<br />
+<br />
+<p align="center">
+  <img src="https://my.mixtape.moe/flouuy.jpg">
+</p>
 
-###### sedang dalam perbaikan
+##### VERSION : 2.0
