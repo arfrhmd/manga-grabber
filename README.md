@@ -1,1 +1,4 @@
-Manga Grabber, based on pecintakomik.com
+# Manga Grabber
+based on pecintakomik.com
+
+###### sedang dalam perbaikan
